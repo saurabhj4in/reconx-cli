@@ -69,6 +69,8 @@ Subdomain        | IP Address     | Domain Pointer       | OrgName        | Orga
 dev.example.com  | 192.0.2.5      | example-host.com     | Cloudflare     | Cloudflare, Inc.
 ```
 
+![image](https://github.com/user-attachments/assets/a0195bf4-8ed2-4c4f-bdde-93871ab2d122)
+
 ---
 
 ## 🛡 Use Cases
