@@ -37,7 +37,7 @@ Ensure the following are installed on your system:
 Clone the repository or copy the scripts directly.
 
 ```bash
-git clone https://github.com/your-org/reconx-cli.git
+git clone https://github.com/jain6196/reconx.git
 cd reconx-cli
 ```
 
